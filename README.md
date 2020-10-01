@@ -55,6 +55,7 @@
 <br>
 ------ Cebu City Weather for October 1-10----
 <br>
+<br>
 Day: 1, Humidity: 93% (Day) - 74% (Night), UV Index: 0 of 10 (Day) - Extreme (Night), Moonrise: 5:25 pm, Moonset: 4:56 am
 <br>
 Day: 2, Humidity: 74% (Day) - 90% (Night), UV Index: Extreme (Day) - 0 of 10 (Night), Moonrise: 6:01 pm, Moonset: 5:41 am
@@ -77,6 +78,8 @@ Day: 10, Humidity: 78% (Day) - 90% (Night), UV Index: 9 of 10 (Day) - 0 of 10 (N
 <br>
 <br>
 ------ Manila City Weather for October 1-10----
+<br>
+<br>
 Day: 1, Humidity: 88% (Day) - 78% (Night), UV Index: 0 of 10 (Day) - 9 of 10 (Night), Moonrise: 5:38 pm, Moonset: 5:06 am
 <br>
 Day: 2, Humidity: 78% (Day) - 88% (Night), UV Index: 9 of 10 (Day) - 0 of 10 (Night), Moonrise: 6:12 pm, Moonset: 5:53 am
